@@ -22,7 +22,7 @@ googling "can home-manager manage X".
 
 ```lua
 {
-  "yourusername/telescope-home-manager.nvim",
+  "justinpaulosolo/telescope-home-manager.nvim",
   dependencies = {
     "nvim-lua/plenary.nvim",
     "nvim-telescope/telescope.nvim",
