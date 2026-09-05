@@ -20,7 +20,7 @@ googling "can home-manager manage X".
 
 ### lazy.nvim
 
-\`\`\`lua
+```lua
 {
   "yourusername/telescope-home-manager.nvim",
   dependencies = {
@@ -31,13 +31,13 @@ googling "can home-manager manage X".
     require("telescope").load_extension("home_manager")
   end,
 }
-\`\`\`
+```
 
 ## Usage
 
-\`\`\`
+```
 :Telescope home_manager
-\`\`\`
+```
 
 Fuzzy-search across every Home Manager option. The preview pane shows the
 option's type, description, default value, and example.
