@@ -4,6 +4,8 @@
 > there are bugs, it's not optimized, and it's probably not built the "proper"
 > way a production plugin would be. Dont be cringe
 
+<img width="2848" height="1840" alt="image" src="https://github.com/user-attachments/assets/98674be8-c03e-429b-86aa-7f578ead9801" />
+
 Browse [Home Manager](https://github.com/nix-community/home-manager) options
 (names, types, defaults, descriptions) from a Telescope picker — no more
 googling "can home-manager manage X".
